@@ -1,4 +1,4 @@
-# NativeScript with Angular Drawer Navigation Template
+# NativeScript with Angular Drawer Navigation and TabView Template
 
 App templates help you jump start your native cross-platform apps with built-in UI elements and best practices. Save time writing boilerplate code over and over again when you create new apps.
 
@@ -9,25 +9,17 @@ App template featuring a RadSideDrawer component for navigation. The RadSideDraw
 ## Key Features
 
 - Side drawer navigation
-- Five blank pages hooked to the drawer navigation
+- Tab View Navigation
+- Eight blank pages hooked to the drawer navigation and Tab view navigation
 - Customizable theme
 - UX and development best practices
 - Easy to understand code
 
 ## Quick Start
-
-Execute the following command to create an app from this template:
-
-``` shell
-tns create my-drawer-ng --template tns-template-drawer-navigation-ng
-```
-
-> Note: This command will create a new NativeScript app that uses the latest version of this template published to [npm](https://www.npmjs.com/package/tns-template-drawer-navigation-ng).
-
 If you want to create a new app that uses the source of the template from the `master` branch, you can execute the following:
 
 ``` shell
-tns create my-drawer-ng --template https://github.com/NativeScript/template-drawer-navigation-ng
+tns create my-drawer-ng --template https://github.com/jibin-kr/NativeScript-drawer-navigation-template-with-tab-view-ng
 ```
 
 **NB:** Please, have in mind that the master branch may refer to dependencies that are not on NPM yet!
@@ -53,6 +45,9 @@ There are five blank components located in these folders:
 - `/home`
 - `/search`
 - `/settings`
+- `/cart`
+- `/wishlist`
+- `/account`
 
 ### Styling
 
