@@ -15,15 +15,6 @@ App template featuring a RadSideDrawer component for navigation. The RadSideDraw
 - UX and development best practices
 - Easy to understand code
 
-## Quick Start
-If you want to create a new app that uses the source of the template from the `master` branch, you can execute the following:
-
-``` shell
-tns create my-drawer-ng --template https://github.com/jibin-kr/NativeScript-drawer-navigation-template-with-tab-view-ng
-```
-
-**NB:** Please, have in mind that the master branch may refer to dependencies that are not on NPM yet!
-
 ## Walkthrough
 
 ### Architecture
