@@ -4,7 +4,7 @@ App templates help you jump start your native cross-platform apps with built-in 
 
 App template featuring a RadSideDrawer component for navigation. The RadSideDrawer component is part of [Progress NativeScript UI](https://github.com/telerik/nativescript-ui-feedback).
 
-<img src="https://github.com/jibin-kr/NativeScript-drawer-navigation-template-with-tab-view-ng/blob/master/Screen1.png" height="400" /> <img src="/tools/assets/phone-drawer-android.png" height="400" />
+<img src="https://github.com/jibin-kr/NativeScript-drawer-navigation-template-with-tab-view-ng/blob/master/Screen1.png" height="400" /> <img src="https://github.com/jibin-kr/NativeScript-drawer-navigation-template-with-tab-view-ng/blob/master/screen2.png" height="400" />
 
 ## Key Features
 
